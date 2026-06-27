@@ -30,7 +30,7 @@
 <br/>
 
 <a href="https://ai-for-public-good-sustainable-resi-sable.vercel.app/" target="_blank">
-<img src="docs/figs/dashboard.gif" width="760" alt="RegimeGate live dashboard — the gate re-allocates its fusion weights as the forecast unfolds and a shock lands" />
+<img src="docs/figs/dash_simulator.png" width="840" alt="RegimeGate live dashboard — inject a shock and watch the gate re-allocate its fusion weights in real time" />
 </a>
 
 <sub><i>▶ The <a href="https://ai-for-public-good-sustainable-resi-sable.vercel.app/">live dashboard</a> — inject a supply‑chain shock and watch the gate re‑allocate its fusion weights in real time.</i></sub>
