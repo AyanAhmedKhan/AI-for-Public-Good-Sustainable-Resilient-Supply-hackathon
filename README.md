@@ -197,7 +197,7 @@ beat the stacker**, the operator picks:
 | 📄 **Solution document** | [PDF](docs/RegimeGate_Solution_Document.pdf) · [LaTeX](docs/RegimeGate_Solution_Document.tex) — 8 pages, all 7 required sections |
 | 🖥️ **Presentation** | [`RegimeGate_Presentation.pptx`](docs/RegimeGate_Presentation.pptx) — modern dark‑theme deck |
 | 🎛️ **Live demo** | [`web/`](web) (Next.js, deploy on Vercel) · [`dashboard/`](dashboard) (Streamlit) |
-| 🎥 **Demo video** | a recorded walkthrough of the prototype and the live dashboard |
+| 🎥 **Demo video** | https://youtu.be/QEi684OTdCc a recorded walkthrough of the prototype and the live dashboard |
 
 ## 🛠️ Tech stack
 
